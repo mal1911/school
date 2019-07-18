@@ -4,7 +4,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <!--  <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
-  --> <title>Hello, world!</title>
+  -->
+  <title>Hello, world!</title>
 </head>
 <body>
 <h1>Hello</h1>
