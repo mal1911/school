@@ -1,6 +1,17 @@
 {
     "require": {
         "yiisoft/yii2": "*",
-        "codeception/codeception": "*"
+        "codeception/codeception": "*",
+        "yiisoft/yii2-bootstrap4": "^2.0"
+    },
+
+    "config": {
+        "process-timeout": 1800,
+        "fxp-asset":{
+            "installer-paths": {
+                "npm-asset-library": "vendor/npm",
+                "bower-asset-library": "vendor/bower"
+            }
+        }
     }
 }
